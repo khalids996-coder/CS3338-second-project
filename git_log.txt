@@ -1,0 +1,57 @@
+commit c50f0320ed846175b5b28e56b62b1e42d4d51c13
+Merge: 7b40c06 360033b
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 20:02:03 2025 -0700
+
+    resolve merge conflict by combining food and movie
+
+commit 7b40c06bc0b9b8ac76a61554fe778723f17786e8
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 19:59:16 2025 -0700
+
+    main: set about to facorite food
+
+commit 360033b2a51092254ca82dc6676934bcfebce59d
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 19:58:02 2025 -0700
+
+    index-fix-2: set about to favorite movie
+
+commit 342735a6330aea9e12b641923beda3983bc9b237
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 19:46:58 2025 -0700
+
+    Add favorite movie div on index-fix
+
+commit 8d06083c01216d56c4d22f1a65940dc06763de3f
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 19:36:07 2025 -0700
+
+    Add favorite food div on main
+
+commit dd15bf037e7dbdcce63133fbe7fce9eab580800e
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 19:28:44 2025 -0700
+
+    Add README.md describing the repo
+
+commit 826f897b828440efd3bce755960263498a3aa411
+Merge: 1d2bfc0 8a5b78d
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 19:24:12 2025 -0700
+
+    Merge pull request #1 from khalids996-coder/info-fill
+    
+    Fill in blanks on index.html
+
+commit 8a5b78d65a50488ebe14e7862042b9194ad9c278
+Author: khalids996-coder <khalids996@gmail.com>
+Date:   Thu Sep 4 18:48:38 2025 -0700
+
+    Fill in blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
